@@ -7,7 +7,7 @@ if __name__ == '__main__':
 
     start2 = time.time()
     # Execution-2
-    run_time2 = time.time() - start1
+    run_time2 = time.time() - start2
 
     print ("Run time in an efficient way is :{0}".format(run_time1) + "[sec]\n")
     print ("Run time in an inefficient way is :{0}".format(run_time2) + "[sec]\n")
